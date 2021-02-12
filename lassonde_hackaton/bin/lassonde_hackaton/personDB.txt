@@ -1,0 +1,6 @@
+parssaK,parssak@my.yorku.ca,Parssa Khazra,123 apple street,123 456 789,male
+bruce123,bruce@email.ca,bruce,23 fakeStreet,234 567 892,male
+john15,john_Doe@email.ca,john Doe,23 elgin street,124 425 234,male
+janeS23,janeSmith@email.com,jane smith,23 founders street,463 323 542,female
+jackie23,jackieC@email.com,jackie chan,15 brook street,432 234 523,male
+test,test,test,null,test,male

@@ -1,0 +1,4 @@
+Walmart,12 south st,true,tylenol1-8hr day time cold-8.99-94,tylenol2-8hr night time cold-8.99-97
+Shoppers,12 north st,true,benadryl1-8hr allergy relief-8.99-100,benadryl2-nightime allergy relief-8.99-100
+Sobeys,12 east st,true,ibuprofen1-head ache relief-10.99-94,ibuprofen2-head ache relief extra strong-12.99-100
+Rexdale,12 west st,true,advil1-8hr day time cold-7.99-100,advil2-8hr night time cold-9.99-100
